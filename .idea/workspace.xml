@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c52a42ad-2dda-4696-8fe3-b81a718b6952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/mesj/app/util/RandomNumberGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/mesj/app/definitions/SignUpStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mesj/app/definitions/SignUpStepDefs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/mesj/app/pageobject/SignUpPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mesj/app/pageobject/SignUpPageObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CucumberTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CucumberTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mesj/app/definitions/SignUpStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mesj/app/definitions/SignUpStepDefs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593390237304</updated>
-      <workItem from="1593390253821" duration="9500000" />
+      <workItem from="1593390253821" duration="9850000" />
+      <workItem from="1593445891480" duration="1901000" />
     </task>
     <servers />
   </component>
@@ -94,26 +89,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593393016097" />
-    <state width="1327" height="414" key="GridCell.Tab.0.bottom" timestamp="1593407292386">
+    <state width="1327" height="414" key="GridCell.Tab.0.bottom" timestamp="1593407492717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1327" height="414" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
-    <state width="1327" height="414" key="GridCell.Tab.0.center" timestamp="1593407292386">
+    <state width="1327" height="414" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407492717" />
+    <state width="1327" height="414" key="GridCell.Tab.0.center" timestamp="1593407492717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1327" height="414" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
-    <state width="1327" height="414" key="GridCell.Tab.0.left" timestamp="1593407292386">
+    <state width="1327" height="414" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407492717" />
+    <state width="1327" height="414" key="GridCell.Tab.0.left" timestamp="1593407492717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1327" height="414" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
-    <state width="1327" height="414" key="GridCell.Tab.0.right" timestamp="1593407292386">
+    <state width="1327" height="414" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407492717" />
+    <state width="1327" height="414" key="GridCell.Tab.0.right" timestamp="1593407492717">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1327" height="414" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
-    <state x="374" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593390262927">
+    <state width="1327" height="414" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407492717" />
+    <state x="374" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593445900228">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="374" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593390262927" />
+    <state x="374" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593445900228" />
     <state x="413" y="123" width="540" height="488" key="extract.method.dialog" timestamp="1593403256195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
