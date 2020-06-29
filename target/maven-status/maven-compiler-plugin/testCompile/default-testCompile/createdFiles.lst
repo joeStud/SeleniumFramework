@@ -1,2 +1,3 @@
 com\mesj\app\definitions\SignUpStepDefs.class
+com\mesj\app\pageobject\SignUpPageObject.class
 CucumberTest.class

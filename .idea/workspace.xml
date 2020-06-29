@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c52a42ad-2dda-4696-8fe3-b81a718b6952" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/drivers/windows/chromedriver.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/mesj/app/definitions/SignUpStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mesj/app/definitions/SignUpStepDefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/mesj/app/pageobject/SignUpPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/mesj/app/pageobject/SignUpPageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CucumberTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/CucumberTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-CucumberTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mesj/app/definitions/SignUpStepDefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/mesj/app/definitions/SignUpStepDefs.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +45,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/mesj/app/definitions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/drivers" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\everis\Documents\Everis\Informacion\Cap Auto\Selenium-Framework\src\test\resources\drivers\windows" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\everis\Documents\Everis\Informacion\Cap Auto\Selenium-Framework\src\test\resources\drivers" />
       <recent name="C:\Users\everis\Documents\Everis\Informacion\Cap Auto\Selenium-Framework\src\test" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Framework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CucumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593390237304</updated>
-      <workItem from="1593390253821" duration="7985000" />
+      <workItem from="1593390253821" duration="9500000" />
     </task>
     <servers />
   </component>
@@ -67,6 +94,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593393016097" />
+    <state width="1327" height="414" key="GridCell.Tab.0.bottom" timestamp="1593407292386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1327" height="414" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
+    <state width="1327" height="414" key="GridCell.Tab.0.center" timestamp="1593407292386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1327" height="414" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
+    <state width="1327" height="414" key="GridCell.Tab.0.left" timestamp="1593407292386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1327" height="414" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
+    <state width="1327" height="414" key="GridCell.Tab.0.right" timestamp="1593407292386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1327" height="414" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1593407292386" />
     <state x="374" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1593390262927">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

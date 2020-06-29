@@ -13,6 +13,10 @@ public class SignUpPageObject {
         this.driver=driver;
     }
 
+    public void go(String url){
+        this.driver.get(url);
+    }
+
     private By firstnameTextbox = By.xpath("//input[@ng-model='FirstName']");
     private By lastnameTextbox = By.xpath("//input[@ng-model='LastName']");
     // private By addressTextarea = By.xpath("//textarea[@ng-model='Adress']");
